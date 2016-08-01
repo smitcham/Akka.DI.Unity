@@ -1,6 +1,6 @@
-#### 1.1.0 July 15 2016 ####
+#### 1.1.1 August 1 2016 ####
 
-Support for Akka 1.1.0
+Support for Akka 1.1.1
 
 Support for Unity 4.0.1
 
